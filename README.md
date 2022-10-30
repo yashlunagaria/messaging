@@ -1,3 +1,3 @@
-# messaging
+# Messaging
 
 XMTP client
